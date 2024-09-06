@@ -11,9 +11,6 @@
    docs/Microbit/Basic_Courses.md
    docs/Microbit/Microbit.md
    docs/Microbit/index
-   docs/keyestudio/index
-
-
 
 
 

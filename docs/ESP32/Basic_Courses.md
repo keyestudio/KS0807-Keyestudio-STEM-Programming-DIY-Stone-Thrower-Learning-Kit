@@ -1,4 +1,4 @@
-# ESP32 Easy Coding Board Basic Projects
+## ESP32 Easy Coding Board Basic Projects
 
 ## Development Board Tutorial
 
@@ -14,7 +14,7 @@ For detailed information, please visit: [Keyestudio ESP32 Easy Coding Board](htt
 
 ### Code Download
 
-Click [here](./Codes.zip) to download the related code:
+[Click to download the related code](./Codes.zip):
 
 ![j5](./media/j5.png)
 

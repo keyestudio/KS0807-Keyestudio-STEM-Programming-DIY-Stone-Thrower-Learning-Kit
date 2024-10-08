@@ -1,4 +1,4 @@
-# Micro:bit Stone Thrower Projects
+## Micro:bit Stone Thrower Projects
 
 
 
@@ -53,7 +53,7 @@ Output signal: digital signal
 
 **Load the code from computer:**
 
-Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1导入代码).
+Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1Import Code).
 
 ![1-18](./media/1-18.png)
 
@@ -82,7 +82,7 @@ After uploading code, you can see the button value on the serial monitor. If you
 
 ![2-10](./media/2-10.png)
 
-If values cannot be displayed via WebUSB, you may need a serial tool. [Click to learn how to use a serial tool in basic projects](./Basic_Courses.md#3.5.2CoolTerm软件安装).
+If values cannot be displayed via WebUSB, you may need a serial tool. [Click to learn how to use a serial tool in basic projects](./Basic_Courses.md#3.5.2 Install CoolTerm).
 
 After uploading code, open the CoolTerm and click **Options**, click **SerialPort** to choose the COM port and set baud rate to 115200 (the tested USB serial baud rate of Micro:bit board is 115200). Click **OK** and **Connect**.
 
@@ -96,7 +96,7 @@ Now you can see the button value on the serial monitor, and these results will b
 
 **Load the code from computer:**
 
-Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1导入代码).
+Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1 Import code).
 
 ![1-19](./media/1-19.png)
 
@@ -165,7 +165,7 @@ Output signal: analog signal
 
 **Load the code from computer:**
 
-Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1导入代码).
+Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1 Import code).
 
 ![2-13](./media/2-13.png)
 
@@ -196,7 +196,7 @@ After uploading code, you can see the analog values of the potentiometer. If you
 
 ![2-10](./media/2-10.png)
 
-If values cannot be displayed via WebUSB, you may need a serial tool. [Click to learn how to use a serial tool in basic projects](./Basic_Courses.md#3.5.2CoolTerm软件安装).
+If values cannot be displayed via WebUSB, you may need a serial tool. [Click to learn how to use a serial tool in basic projects](./Basic_Courses.md#3.5.2 Install CoolTerm).
 
 After uploading code, open the CoolTerm and click **Options**, click **SerialPort** to choose the COM port and set baud rate to 115200 (the tested USB serial baud rate of Micro:bit board is 115200). Click **OK** and **Connect**.
 
@@ -248,7 +248,7 @@ Standby current: 3±1mA(DC 4.8V)    4±1mA(DC 6V)
 
 **Load the code from computer:**
 
-Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1导入代码).
+Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1 Import code).
 
 ![3-13](./media/3-13.png)
 
@@ -330,7 +330,7 @@ Trigger input pulse width: 10 microseconds
 
 **Load the code from computer:**
 
-Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1导入代码).
+Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1 Import code).
 
 ![4-21](./media/4-21.png)
 
@@ -384,7 +384,7 @@ After uploading code, you can see the distance values detected by the ultrasonic
 
 ![4-19](./media/4-19.png)
 
-If values cannot be displayed via WebUSB, you may need a serial tool. [Click to learn how to use a serial tool in basic projects](./Basic_Courses.md#3.5.2CoolTerm软件安装).
+If values cannot be displayed via WebUSB, you may need a serial tool. [Click to learn how to use a serial tool in basic projects](./Basic_Courses.md#3.5.2 Install CoolTerm).
 
 After uploading code, open the CoolTerm and click **Options**, click **SerialPort** to choose the COM port and set baud rate to 115200 (the tested USB serial baud rate of Micro:bit board is 115200). Click **OK** and **Connect**.
 
@@ -416,7 +416,7 @@ Connections are the same, except the servo 2. Here is the wiring table.
 
 **Load the code from computer:**
 
-Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1导入代码).
+Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1 Import code).
 
 ![image-20240904090833845](./media/image-20240904090833845.png)
 

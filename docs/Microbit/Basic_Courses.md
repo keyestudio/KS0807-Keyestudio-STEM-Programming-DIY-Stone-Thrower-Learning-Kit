@@ -1,6 +1,4 @@
-# BBC Micro:bit
-
-
+## BBC Micro:bit
 
 ## 1. What is Micro:bit?
 
@@ -140,15 +138,15 @@ Then Micro: bit main board will appear on your computer as a driver named “MIC
 
 #### 3.1.2 Step 2: Write programs
 
-Online version of Makecode: <https://makecode.microbit.org/>
+Online version of Makecode: https://makecode.microbit.org/
 
-Click **New Project**;
+Click ***\*New Project\****;
 
-The dialog box **Create a Project** appears, fill it with **heartbeat** and click **Create √** to edit.
+The dialog box ***\*Create a Project\**** appears, fill it with ***\*heartbeat\**** and click ***\*Create √\**** to edit.
 
-If you are Windows 10 system, it is also viable to edit on the APP MakeCode for micro:bit , which is exactly like editing in the website. 
+If your computer has the Windows 10 operating system, you can also use MakeCode software for programming, which is exactly the same as programming on a browser.
 
-Windows 10 App download: [https://www.microsoft.com/](https://www.microsoft.com/zh-cn/p/makecode-for-micro-bit/9pjc7sv48lcx?ocid=badgep&rtc=1&activetab=pivot:overviewtab)
+Download: [https://www.microsoft.com/](https://www.microsoft.com/zh-cn/p/makecode-for-micro-bit/9pjc7sv48lcx?ocid=badgep&rtc=1&activetab=pivot:overviewtab)
 
 Here we demonstrate on Google Chrome.
 
@@ -182,12 +180,13 @@ Click the arrow to switch to “Python” language.
 
 #### 3.1.3 Step 3: Download code
 
-If your computer is Windows 10 and you have downloaded the APP MakeCode, what you will only have to do is to download the program to your Micro: Bit board.
+Generally, for systems with Windows 10 or higher using the MakeCode webpage to program, simply clicking the "Download" button will directly download the code program to the micro:bit board without any additional steps.
 
-If you are writing program through the website, following these steps:
+If you cannot directly download the code to the micro:bit board, please follow these steps:
 
-1. Click the ‘Download’ in the editor to download a "hex" file, which is a compact program format for Micro: Bit to read;
-2. Copy the "hex" file to your board. For Windows, you can also click and select ‘Send to → MICROBIT(E:) ‘to copy the hex file to the Micro: Bit board. 
+1. Click the "Download" button in the editor. This will download a "hex" file, which is a format that the micro:bit board can read.
+2. After the hexadecimal file is downloaded, copy it to your micro:bit board just like you would copy a file to a USB drive.
+3. On Windows, you can also right-click on the "hex" file and select "Send to → MICROBIT" to copy the file to the micro:bit board.
 
 ![img](./media/m18.png)
 
@@ -228,15 +227,13 @@ After the program is uploaded to the Micro: bit, you can power it via USB cable 
 
 This chapter has described how to use the Micro:bit main board.
 
-Except for the Makecode graphical programming, if you want to write Micro:bit programs in other languages, visit <https://microbit.org/code/> to learn more, or visit <https://microbit.org/projects/> to find something you want to have a go.
+Except for the Makecode graphical programming, if you want to write Micro:bit programs in other languages, visit https://microbit.org/code/ to learn more, or visit [Make it: code it | micro:bit (microbit.org)](https://microbit.org/projects/make-it-code-it/) to find something you want to have a go.
 
 
 
 ### 3.2 Makecode
 
 Google Chrome online version: <https://makecode.microbit.org/>
-
-Or open the Windows 10 App makecode.
 
 ![img](./media/m24.png)
 

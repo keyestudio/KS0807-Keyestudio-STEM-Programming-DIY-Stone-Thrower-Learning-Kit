@@ -57,23 +57,24 @@ If you are interested in our products, please contact to our sales representativ
 | :--: | :----------------------------------------------------------: | :-------------------------: | :--: |
 |  1   |                    ![img](./media/q1.png)                    |       Expansion board       |  1   |
 |  2   |                    ![img](./media/q2.png)                    |       Battery holder        |  1   |
-|  3   |                                                              |       Basswood board        |  1   |
-|  4   |                    ![q3](./media/q3.png)                     |            Servo            |  2   |
-|  5   |                    ![q4](./media/q4.png)                     |      Ultrasonic sensor      |  1   |
-|  6   |                    ![q5](./media/q5.png)                     |   HX-2.54 4P DuPont wire    |  1   |
-|  7   |                    ![q6](./media/q6.png)                     |       3P DuPont wire        |  2   |
-|  8   |                    ![img](./media/q8.png)                    |         Screwdriver         |  1   |
-|  9   |                    ![q7](./media/q7.png)                     |        Cross wrench         |  1   |
-|  10  | ![q9](./media/q9.png)![q9](./media/q9.png)![q9](./media/q9.png)![q9](./media/q9.png) |        M4x8MM screw         |  6   |
-|  11  |                   ![q10](./media/q10.png)                    |           M4 nut            |  6   |
-|  12  |        ![q11](./media/q11.png)![q11](./media/q11.png)        |          M2.5 nut           |  2   |
-|  13  |        ![q12](./media/q12.png)![q12](./media/q12.png)        |       M2.5x8MM screw        |  2   |
-|  14  |                    ![q9](./media/q9.png)                     |        M3x8MM screw         |  1   |
-|  15  |                   ![q11](./media/q11.png)                    |           M3 nut            |  1   |
-|  16  | ![q13](./media/q13.png)![q13](./media/q13.png)![q13](./media/q13.png)![q13](./media/q13.png) |        M2x10MM screw        |  4   |
-|  17  | ![q11](./media/q11.png)![q11](./media/q11.png)![q11](./media/q11.png)![q11](./media/q11.png) |           M2 nut            |  4   |
-|  18  | ![q14](./media/q14.png)![q14](./media/q14.png)![q14](./media/q14.png)![q14](./media/q14.png) | M1.4x6MM Self-tapping screw |  4   |
-|  19  |                                                              |                             |      |
+|  3   |                   ![q22](./media/q22.png)                    |       Basswood board        |  1   |
+|  4   |                   ![q24](./media/q24.png)                    |    Rotary Potentiometer     |  1   |
+|  5   |                   ![q23](./media/q23.png)                    |         key module          |  1   |
+|  6   |                    ![q3](./media/q3.png)                     |            Servo            |  2   |
+|  7   |                    ![q4](./media/q4.png)                     |      Ultrasonic sensor      |  1   |
+|  8   |                    ![q5](./media/q5.png)                     |   HX-2.54 4P DuPont wire    |  1   |
+|  9   |                    ![q6](./media/q6.png)                     |       3P DuPont wire        |  2   |
+|  10  |                    ![img](./media/q8.png)                    |         Screwdriver         |  1   |
+|  11  | ![q9](./media/q9.png)![q9](./media/q9.png)![q9](./media/q9.png)![q9](./media/q9.png) |        M4x8MM screw         |  6   |
+|  12  |                   ![q10](./media/q10.png)                    |           M4 nut            |  6   |
+|  13  |        ![q11](./media/q11.png)![q11](./media/q11.png)        |          M2.5 nut           |  2   |
+|  14  |        ![q12](./media/q12.png)![q12](./media/q12.png)        |       M2.5x8MM screw        |  2   |
+|  15  |                    ![q9](./media/q9.png)                     |        M3x8MM screw         |  1   |
+|  16  |                   ![q11](./media/q11.png)                    |           M3 nut            |  1   |
+|  17  | ![q13](./media/q13.png)![q13](./media/q13.png)![q13](./media/q13.png)![q13](./media/q13.png) |        M2x10MM screw        |  4   |
+|  18  | ![q11](./media/q11.png)![q11](./media/q11.png)![q11](./media/q11.png)![q11](./media/q11.png) |           M2 nut            |  4   |
+|  19  | ![q14](./media/q14.png)![q14](./media/q14.png)![q14](./media/q14.png)![q14](./media/q14.png) | M1.4x6MM Self-tapping screw |  4   |
+|  20  |                                                              |                             |      |
 
 ------
 
@@ -194,7 +195,7 @@ Connect the servo to the expansion board.
 
 ![q15](./media/q15.png)
 
-Click [here](./codes.zip) to download the code folder of the relevant development board.
+[Click to download the code folder](./codes.zip) of the relevant development board.
 
 ![q16](./media/q16.png)
 
@@ -206,7 +207,7 @@ ESP32 development board code file:
 
 ![q18](./media/q18.png)
 
-If you do not know how to upload code to the board, click [here](#1.基础教程) to learn the basic projects.
+If you do not know how to upload code to the board, [click to learn the basic projects](#1. Basic Projects).
 
 After uploading the code, the servo rotates from 0 degree to 180 degree and to 90 degree. You can press the service button on the development board to have a clear look. If your servo gets no response, please check whether the wiring is correct or whether the expansion board is powered by the batteries.
 
@@ -270,7 +271,7 @@ ESP32 development board code file:
 
 ![q20](./media/q20.png)
 
-If you do not know how to upload code to the board, click [here](#1.基础教程) to learn the basic projects.
+If you do not know how to upload code to the board,  [click to learn the basic projects](#1. Basic Projects).
 
 After uploading the code, the servo rotates from 0 degree to 90 degree and to 180 degree. You can press the service button on the development board to have a clear look. If your servo gets no response, please check whether the wiring is correct or whether the expansion board is powered by the batteries.
 

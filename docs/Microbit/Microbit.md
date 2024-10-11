@@ -53,7 +53,7 @@ Output signal: digital signal
 
 **Load the code from computer:**
 
-Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1Import Code).
+Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](https://docs.keyestudio.com/projects/KS0807/en/latest/docs/Microbit/Basic_Courses.html#import-code).
 
 ![1-18](./media/1-18.png)
 
@@ -82,7 +82,7 @@ After uploading code, you can see the button value on the serial monitor. If you
 
 ![2-10](./media/2-10.png)
 
-If values cannot be displayed via WebUSB, you may need a serial tool. [Click to learn how to use a serial tool in basic projects](./Basic_Courses.md#3.5.2 Install CoolTerm).
+If values cannot be displayed via WebUSB, you may need a serial tool. [Click to learn how to use a serial tool in basic projects](https://docs.keyestudio.com/projects/KS0807/en/latest/docs/Microbit/Basic_Courses.html#install-coolterm).
 
 After uploading code, open the CoolTerm and click **Options**, click **SerialPort** to choose the COM port and set baud rate to 115200 (the tested USB serial baud rate of Micro:bit board is 115200). Click **OK** and **Connect**.
 
@@ -96,7 +96,7 @@ Now you can see the button value on the serial monitor, and these results will b
 
 **Load the code from computer:**
 
-Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1 Import code).
+Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](https://docs.keyestudio.com/projects/KS0807/en/latest/docs/Microbit/Basic_Courses.html#import-code).
 
 ![1-19](./media/1-19.png)
 
@@ -104,7 +104,7 @@ Download the code package first, and unzip and upload the code to micro bit boar
 
 1. In ![](./media/basic.png), add a ![](./media/1-4.png) into the ![onStart](./media/onStart.png)
 
-![microbit-screenshot (27)](./media/microbit-screenshot%20(27).png)
+![k210](./media/k210.png)
 
 2. In ![logic](./media/logic.png), add a ![if](./media/if.png) into ![forever](./media/forever.png)
 
@@ -165,7 +165,7 @@ Output signal: analog signal
 
 **Load the code from computer:**
 
-Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1 Import code).
+Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](https://docs.keyestudio.com/projects/KS0807/en/latest/docs/Microbit/Basic_Courses.html#import-code).
 
 ![2-13](./media/2-13.png)
 
@@ -196,7 +196,7 @@ After uploading code, you can see the analog values of the potentiometer. If you
 
 ![2-10](./media/2-10.png)
 
-If values cannot be displayed via WebUSB, you may need a serial tool. [Click to learn how to use a serial tool in basic projects](./Basic_Courses.md#3.5.2 Install CoolTerm).
+If values cannot be displayed via WebUSB, you may need a serial tool. [Click to learn how to use a serial tool in basic projects](https://docs.keyestudio.com/projects/KS0807/en/latest/docs/Microbit/Basic_Courses.html#install-coolterm).
 
 After uploading code, open the CoolTerm and click **Options**, click **SerialPort** to choose the COM port and set baud rate to 115200 (the tested USB serial baud rate of Micro:bit board is 115200). Click **OK** and **Connect**.
 
@@ -248,7 +248,7 @@ Standby current: 3±1mA(DC 4.8V)    4±1mA(DC 6V)
 
 **Load the code from computer:**
 
-Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1 Import code).
+Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](https://docs.keyestudio.com/projects/KS0807/en/latest/docs/Microbit/Basic_Courses.html#import-code).
 
 ![3-13](./media/3-13.png)
 
@@ -330,7 +330,7 @@ Trigger input pulse width: 10 microseconds
 
 **Load the code from computer:**
 
-Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1 Import code).
+Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](https://docs.keyestudio.com/projects/KS0807/en/latest/docs/Microbit/Basic_Courses.html#import-code).
 
 ![4-21](./media/4-21.png)
 
@@ -384,7 +384,7 @@ After uploading code, you can see the distance values detected by the ultrasonic
 
 ![4-19](./media/4-19.png)
 
-If values cannot be displayed via WebUSB, you may need a serial tool. [Click to learn how to use a serial tool in basic projects](./Basic_Courses.md#3.5.2 Install CoolTerm).
+If values cannot be displayed via WebUSB, you may need a serial tool. [Click to learn how to use a serial tool in basic projects](https://docs.keyestudio.com/projects/KS0807/en/latest/docs/Microbit/Basic_Courses.html#install-coolterm).
 
 After uploading code, open the CoolTerm and click **Options**, click **SerialPort** to choose the COM port and set baud rate to 115200 (the tested USB serial baud rate of Micro:bit board is 115200). Click **OK** and **Connect**.
 
@@ -416,25 +416,17 @@ Connections are the same, except the servo 2. Here is the wiring table.
 
 **Load the code from computer:**
 
-Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](./Basic_Courses.md#3.5.1 Import code).
+Download the code package first, and unzip and upload the code to micro bit board. If you do not know how to do it, please [learn how to upload code in basic projects](https://docs.keyestudio.com/projects/KS0807/en/latest/docs/Microbit/Basic_Courses.html#import-code).
 
 ![image-20240904090833845](./media/image-20240904090833845.png)
 
-**Build the code blocks manually:**
-
-
-
 **Complete code:**
 
-![microbit-screenshot (38)](./media/microbit-screenshot%20(38).png)
+![k211](./media/k211.png)
 
 #### 5.4 Test Result
 
-
-
-
-
-
+After successfully uploading the code, the throwing direction of the catapult can be controlled by rotating the button, and the trigger of the catapult can be controlled by pressing the button.
 
 ------
 
@@ -456,7 +448,7 @@ Plug in Micro:bit board, the “MAINTENANCE” drive appears, which means the pr
 
 1. Download the **hex file** from this page to your computer.
 
-	Down load the latest micro:bit firmware-0255: https://www.microbit.org/get-started/user-guide/firmware/ 
+	Down load the latest micro:bit firmware-0255: [https://www.microbit.org/get-started/user-guide/firmware/](https://www.microbit.org/get-started/user-guide/firmware/)
 	If you do not want to download from this website, we also provide it in our tutorial.
 
 2. After the latest firmware is downloaded, then drag it into the “MAINTENANCE” to make Micro:bit back to normal mode.

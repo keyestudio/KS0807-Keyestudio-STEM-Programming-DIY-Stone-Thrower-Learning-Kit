@@ -59,7 +59,7 @@ If you are interested in our products, please contact to our sales representativ
 |  2   |                    ![img](./media/q2.png)                    |       Battery holder        |  1   |
 |  3   |                   ![q22](./media/q22.png)                    |       Basswood board        |  1   |
 |  4   |                   ![q24](./media/q24.png)                    |    Rotary Potentiometer     |  1   |
-|  5   |                   ![q23](./media/q23.png)                    |         key module          |  1   |
+|  5   |                   ![q23](./media/q23.png)                    |        Button module        |  1   |
 |  6   |                    ![q3](./media/q3.png)                     |            Servo            |  2   |
 |  7   |                    ![q4](./media/q4.png)                     |      Ultrasonic sensor      |  1   |
 |  8   |                    ![q5](./media/q5.png)                     |   HX-2.54 4P DuPont wire    |  1   |

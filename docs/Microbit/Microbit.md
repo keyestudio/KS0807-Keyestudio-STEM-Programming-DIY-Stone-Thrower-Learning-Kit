@@ -1,6 +1,4 @@
-## Micro:bit Stone Thrower Projects
-
-
+# Micro:bit Stone Thrower Projects
 
 ## Code Download
 

@@ -73,7 +73,7 @@ If you are interested in our products, please contact to our sales representativ
 |  16  |                   ![q11](./media/q11.png)                    |           M3 nut            |  1   |
 |  17  | ![q13](./media/q13.png)![q13](./media/q13.png)![q13](./media/q13.png)![q13](./media/q13.png) |        M2x10MM screw        |  4   |
 |  18  | ![q11](./media/q11.png)![q11](./media/q11.png)![q11](./media/q11.png)![q11](./media/q11.png) |           M2 nut            |  4   |
-|  19  | ![q14](./media/q14.png)![q14](./media/q14.png)![q14](./media/q14.png)![q14](./media/q14.png) | M1.4x6MM Self-tapping screw |  4   |
+|  19  | ![q14](./media/q14.png)![q14](./media/q14.png)![q14](./media/q14.png)![q14](./media/q14.png) | M1.2x5MM Self-tapping screw |  4   |
 |  20  |                                                              |                             |      |
 
 ------
@@ -207,7 +207,7 @@ ESP32 development board code file:
 
 ![q18](./media/q18.png)
 
-If you do not know how to upload code to the board, [click to learn the basic projects](#1. Basic Projects).
+If you do not know how to upload code to the board, [click to learn the basic projects](https://docs.keyestudio.com/projects/KS0807/en/latest/docs/index.html#basic-projects).
 
 After uploading the code, the servo rotates from 0 degree to 180 degree and to 90 degree. You can press the service button on the development board to have a clear look. If your servo gets no response, please check whether the wiring is correct or whether the expansion board is powered by the batteries.
 
@@ -271,7 +271,7 @@ ESP32 development board code file:
 
 ![q20](./media/q20.png)
 
-If you do not know how to upload code to the board,  [click to learn the basic projects](#1. Basic Projects).
+If you do not know how to upload code to the board,  [click to learn the basic projects](https://docs.keyestudio.com/projects/KS0807/en/latest/docs/index.html#basic-projects)..
 
 After uploading the code, the servo rotates from 0 degree to 90 degree and to 180 degree. You can press the service button on the development board to have a clear look. If your servo gets no response, please check whether the wiring is correct or whether the expansion board is powered by the batteries.
 

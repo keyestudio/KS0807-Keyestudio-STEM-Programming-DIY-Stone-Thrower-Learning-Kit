@@ -1,4 +1,4 @@
-## ESP32 Easy Coding Board Stone Thrower Projects
+# ESP32 Easy Coding Board Stone Thrower Projects
 
 ### Code Download
 
